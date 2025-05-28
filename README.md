@@ -97,7 +97,7 @@ This AI-driven system, if fully implemented, could offer substantial business va
 
 ## 👤 About the Creator
 
-https://github.com/krmhstrk)
+https://github.com/krmhstrk
 
 ---
 
