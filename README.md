@@ -1,5 +1,4 @@
 # 🎵 AI-Powered Royalty Analyzer
-# 🎵 AI-Powered Royalty Analyzer
 
 ## 🎯 Project Purpose
 
