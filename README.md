@@ -1,7 +1,5 @@
 # 🎵 AI-Powered Royalty Analyzer
 
-*(Optional: Banner image can be linked here if available in the repository, e.g., ![Project Banner](images/project_banner.png))*
-
 ## 📊 Business Impact Overview (Conceptual)
 
 This AI-powered system is conceptualized to automate the complex process of analyzing music royalty reports and licensing agreements, delivering **significant business value** by:
@@ -136,14 +134,11 @@ This project serves as a foundation. Future enhancements could further increase 
     6. Your web browser should automatically open to the dashboard. You can upload a different CSV (with the same column structure) or use the default sample data which loads automatically. Explore the filters and visualizations.
 
 ### Dashboard Previews
-*(Ensure your screenshot files are in the main directory or update paths if they are in an 'images' folder, e.g., `images/screenshot.png`)*
 **English UI Overview:**
-![Dashboard Screenshot EN Overview](screenshot.png) *(Replace with your actual filename if different)*
+![Dashboard Screenshot EN Overview](screenshot.png) 
 
 **German UI Overview:**
-![Dashboard Screenshot DE Overview](Screenshot_gr.png) *(Replace with your actual filename if different)*
-
-*(You can add more screenshots or arrange them differently if you prefer, for example, using HTML for side-by-side display if GitHub's Markdown rendering supports it well, or just list them.)*
+![Dashboard Screenshot DE Overview](Screenshot_gr.png) 
 
 ## 👤 Project Maintained By
 
