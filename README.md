@@ -143,7 +143,3 @@ This project serves as a foundation. Future enhancements could further increase 
 ## 👤 Project Maintained By
 
 [https://github.com/krmhstrk](https://github.com/krmhstrk)
-
----
-
-*This portfolio project showcases an "automation-first mindset" applied to challenges within the music industry, demonstrating capabilities relevant to a Business Analyst (AI Automation) role.*
