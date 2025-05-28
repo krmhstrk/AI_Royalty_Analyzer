@@ -97,9 +97,7 @@ This AI-driven system, if fully implemented, could offer substantial business va
 
 ## 👤 About the Creator
 
-This project was conceptualized and developed by **[Adın Soyadın]** as a portfolio piece to demonstrate capabilities in AI-driven business process automation and data analysis.
-* **LinkedIn:** [LinkedIn Profilinin Linki]
-* **GitHub:** [GitHub Profilinin Linki (örneğin: https://github.com/krmhstrk)]
+https://github.com/krmhstrk)
 
 ---
 
